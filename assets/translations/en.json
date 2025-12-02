@@ -1,0 +1,62 @@
+{
+  "Arabic": "Arabic",
+  "English": "English",
+  "appTitle": "Shopping App",
+  "welcomeMessage": "Welcome To Shopping",
+  "notificationTitle": "New Notification",
+  "yes": "Yes",
+  "no": "No",
+  "Enter your Id": "Enter your Id",
+  "Id cannot be empty": "Id cannot be empty",
+  "Enter your email": "Enter your email",
+  "Email cannot be empty": "Email cannot be empty",
+  "Invalid email": "Invalid email",
+  "Enter your password": "Enter your password",
+  "Password cannot be empty": "Password cannot be empty",
+  "Invalid password format": "Invalid password format",
+  "Login": "Login",
+  "Don’t have an account? ": "Don’t have an account? ",
+  "Sign up": "Sign up",
+  "Enter your Name": "Enter your Name",
+  "Name cannot be empty": "Name cannot be empty",
+  "Enter confirm password": "Enter confirm password",
+  "Confirmed password not matched password": "Confirmed password not matched password",
+  "Signup": "Signup",
+
+  "Profile": "Profile",
+  "All Products": "All Products",
+  "Home": "Home",
+  "Category": "Category",
+  "Favorite": "Favorite",
+  "Cart": "Cart",
+  "searching": "Search....",
+  "Categories": "Categories",
+  "Products": "Products",
+  "Favorites": "Favorites",
+  "Favorite is empty": "Favorite is empty",
+  "Description": "Description",
+  "Add to Cart": "Add to Cart",
+  "All Categories": "All Categories",
+  "Total Price": "Total Price : ",
+  "SAR": "SAR",
+  "Cart is empty": "Cart is empty",
+  "My Cart": "My Cart",
+  "OK": "OK",
+  "Add": "Add",
+  "Market": "Market",
+  "Clothes": "Clothes",
+  "Electronic": "Electronic",
+  "Shoes": "Shoes",
+  "Baby": "Baby",
+  "Girls": "Girls",
+  "Boys": "Boys"
+
+
+
+
+
+
+
+
+
+}
