@@ -1,6 +1,6 @@
 # shopping_flutter_app
 
-A new Flutter project.
+# Test App must use ID:2 & any email & any password
 
 ## Getting Started
 
